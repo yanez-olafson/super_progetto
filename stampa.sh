@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "ciao"
-echo "versione 1"
+echo "ciao, ciao! :-) "
+echo "versione 2"
